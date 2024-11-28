@@ -1,0 +1,1 @@
+It is image classification project which classifies and indentifies the the images of top sports celebrates. Evaluated the performance of the model with Logistic regression, SVM and Random forest algorithms and chosen the best one.
